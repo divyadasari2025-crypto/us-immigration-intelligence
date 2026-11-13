@@ -47,7 +47,11 @@ flowchart TD
     S --> ST[(Immigration Statistic object via Flow)]
 ```
 
+<<<<<<< HEAD
 For component detail, see [Architecture](us-immigration-intelligence-docs\docs\ARCHITECTURE.md).
+=======
+For component detail, see [Architecture](docs/ARCHITECTURE.md).
+>>>>>>> 41afe45b2b6a71668a700576f7788dbe32937f9b
 
 ## Portfolio dataset
 
@@ -62,7 +66,11 @@ The implemented demo used **10 USCIS PDFs** and **107 structured records** impor
 
 These are **curated snapshots**, not complete or automatically synchronized government databases. The historical processing-time data is not a forecast of current application processing.
 
+<<<<<<< HEAD
 See [Government Data Sources](us-immigration-intelligence-docs\docs\DATA_SOURCES.md).
+=======
+See [Government Data Sources](docs/DATA_SOURCES.md).
+>>>>>>> 41afe45b2b6a71668a700576f7788dbe32937f9b
 
 ## Demonstrated scenarios
 
@@ -73,7 +81,11 @@ See [Government Data Sources](us-immigration-intelligence-docs\docs\DATA_SOURCES
 5. **Historical statistics:** Compare stored processing-time data across fiscal years.
 6. **Regulatory publications:** Ask about recent immigration rules; the Policy Agent searches Federal Register documents via Apex.
 
+<<<<<<< HEAD
 See [Demo Scenarios and Validation](us-immigration-intelligence-docs\docs\DEMO_SCENARIOS.md).
+=======
+See [Demo Scenarios and Validation](docs/DEMO_SCENARIOS.md).
+>>>>>>> 41afe45b2b6a71668a700576f7788dbe32937f9b
 
 ## Technology
 
@@ -87,7 +99,11 @@ Typical metadata includes custom objects and fields, Flows, Apex classes, permis
 
 ## Reproducing the project
 
+<<<<<<< HEAD
 See [Setup and Deployment](us-immigration-intelligence-docs\docs\SETUP.md) for Salesforce CLI commands, required org configuration, permissions, and manual data provisioning.
+=======
+See [Setup and Deployment](docs/SETUP.md) for Salesforce CLI commands, required org configuration, permissions, and manual data provisioning.
+>>>>>>> 41afe45b2b6a71668a700576f7788dbe32937f9b
 
 ## Current status and limitations
 
@@ -111,4 +127,8 @@ See [Setup and Deployment](us-immigration-intelligence-docs\docs\SETUP.md) for S
 
 ## Security and responsible use
 
+<<<<<<< HEAD
 No case-status integrations, application submissions, or individual immigration records are required for the demo. Never commit passwords, authentication tokens, Salesforce secrets, signed document-storage URLs, or customer data to this repository. All immigration answers should identify their source and the date/context of the data when relevant.
+=======
+No case-status integrations, application submissions, or individual immigration records are required for the demo. Never commit passwords, authentication tokens, Salesforce secrets, signed document-storage URLs, or customer data to this repository. All immigration answers should identify their source and the date/context of the data when relevant.
+>>>>>>> 41afe45b2b6a71668a700576f7788dbe32937f9b
