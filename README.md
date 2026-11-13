@@ -47,7 +47,7 @@ flowchart TD
     S --> ST[(Immigration Statistic object via Flow)]
 ```
 
-For component detail, see [Architecture](us-immigration-intelligence-docs\docs\ARCHITECTURE.md).
+For component detail, see [Architecture](us-immigration-intelligence-docs/docs/ARCHITECTURE.md).
 
 ## Portfolio dataset
 
@@ -62,7 +62,7 @@ The implemented demo used **10 USCIS PDFs** and **107 structured records** impor
 
 These are **curated snapshots**, not complete or automatically synchronized government databases. The historical processing-time data is not a forecast of current application processing.
 
-See [Government Data Sources](us-immigration-intelligence-docs\docs\DATA_SOURCES.md).
+See [Government Data Sources](us-immigration-intelligence-docs/docs/DATA_SOURCES.md).
 
 ## Demonstrated scenarios
 
@@ -73,7 +73,7 @@ See [Government Data Sources](us-immigration-intelligence-docs\docs\DATA_SOURCES
 5. **Historical statistics:** Compare stored processing-time data across fiscal years.
 6. **Regulatory publications:** Ask about recent immigration rules; the Policy Agent searches Federal Register documents via Apex.
 
-See [Demo Scenarios and Validation](us-immigration-intelligence-docs\docs\DEMO_SCENARIOS.md).
+See [Demo Scenarios and Validation](us-immigration-intelligence-docs/docs/DEMO_SCENARIOS.md).
 
 ## Technology
 
@@ -87,7 +87,7 @@ Typical metadata includes custom objects and fields, Flows, Apex classes, permis
 
 ## Reproducing the project
 
-See [Setup and Deployment](us-immigration-intelligence-docs\docs\SETUP.md) for Salesforce CLI commands, required org configuration, permissions, and manual data provisioning.
+See [Setup and Deployment](us-immigration-intelligence-docs/docs/SETUP.md) for Salesforce CLI commands, required org configuration, permissions, and manual data provisioning.
 
 ## Current status and limitations
 
