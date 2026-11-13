@@ -1,0 +1,24 @@
+﻿Form Number,Filing Method,Fee Amount,Fee Category,Schedule Edition,Source URL
+I-130,Paper,675,General petition,2026-10-16,https://www.uscis.gov/g-1055
+I-130,Online,625,General petition,2026-10-16,https://www.uscis.gov/g-1055
+I-140,Paper,715,Base petition fee; additional Asylum Program Fee may apply,2026-10-16,https://www.uscis.gov/g-1055
+I-140,Online,665,Base petition fee; additional Asylum Program Fee may apply,2026-10-16,https://www.uscis.gov/g-1055
+I-140,Additional,600,Asylum Program Fee - regular petitioner,2026-10-16,https://www.uscis.gov/g-1055
+I-140,Additional,300,Asylum Program Fee - small employer or self-petitioner,2026-10-16,https://www.uscis.gov/g-1055
+I-140,Additional,0,Asylum Program Fee - nonprofit,2026-10-16,https://www.uscis.gov/g-1055
+I-485,Paper,1440,General filing - applicant over age 14,2026-10-16,https://www.uscis.gov/g-1055
+I-485,Online,1390,General filing - applicant over age 14; schedule-listed rate,2026-10-16,https://www.uscis.gov/g-1055
+I-485,Paper,950,Child under 14 filing concurrently with one parent,2026-10-16,https://www.uscis.gov/g-1055
+I-485,Online,900,Child under 14 filing concurrently with one parent; schedule-listed rate,2026-10-16,https://www.uscis.gov/g-1055
+I-765,Paper,520,General EAD initial/replacement/renewal,2026-10-16,https://www.uscis.gov/g-1055
+I-765,Online,470,General EAD initial/replacement/renewal,2026-10-16,https://www.uscis.gov/g-1055
+I-765,Paper,260,Pending I-485 filed with fee on or after Apr 1 2024,2026-10-16,https://www.uscis.gov/g-1055
+I-765,Online,260,Pending I-485 filed with fee on or after Apr 1 2024,2026-10-16,https://www.uscis.gov/g-1055
+N-400,Paper,760,General naturalization application,2026-10-16,https://www.uscis.gov/g-1055
+N-400,Online,710,General naturalization application,2026-10-16,https://www.uscis.gov/g-1055
+N-400,Paper,380,Reduced fee with qualifying household income,2026-10-16,https://www.uscis.gov/g-1055
+N-400,Paper,0,Qualifying military service,2026-10-16,https://www.uscis.gov/g-1055
+I-129,Paper,1055,O classification regular petitioner; additional fees may apply,2026-10-16,https://www.uscis.gov/g-1055
+I-129,Online,1005,O classification regular petitioner; additional fees may apply,2026-10-16,https://www.uscis.gov/g-1055
+I-129,Paper,530,O classification small employer/nonprofit; additional fees may apply,2026-10-16,https://www.uscis.gov/g-1055
+I-129,Online,530,O classification small employer/nonprofit; additional fees may apply,2026-10-16,https://www.uscis.gov/g-1055
