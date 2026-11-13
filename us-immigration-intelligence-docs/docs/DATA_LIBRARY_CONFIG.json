@@ -1,0 +1,166 @@
+﻿{
+  "status": 0,
+  "result": {
+    "dataSpaceScopeId": "9gTfj000001itwHEAQ",
+    "description": "Official USCIS immigration policy documents",
+    "developerName": "US_Immigration_Policy_Knowledge",
+    "featureAssignments": [],
+    "fileAdlMode": 3,
+    "groundingSource": {
+      "groundingFileRefs": [
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:43:14 GMT 2026",
+          "fileId": "1Jcfj000000DYBxCAO",
+          "fileName": "USCIS_EB2_Policy_Chapter5.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_EB2_Policy_Chapter5.pdf",
+          "fileSize": 744097,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:51:11 GMT 2026",
+          "fileId": "1Jcfj000000DYIPCA4",
+          "fileName": "USCIS_EB1_Extraordinary_Ability.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_EB1_Extraordinary_Ability.pdf",
+          "fileSize": 595727,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:52:36 GMT 2026",
+          "fileId": "1Jcfj000000DYK1CAO",
+          "fileName": "USCIS_EB3_Policy.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_EB3_Policy.pdf",
+          "fileSize": 552708,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:54:43 GMT 2026",
+          "fileId": "1Jcfj000000DYLdCAO",
+          "fileName": "Form I-140, Instructions for Petition for Alien Workers.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/Form I-140, Instructions for Petition for Alien Workers.pdf",
+          "fileSize": 407294,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:54:43 GMT 2026",
+          "fileId": "1Jcfj000000DYLeCAO",
+          "fileName": "Form I-140, Immigrant Petition for Alien Workers.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/Form I-140, Immigrant Petition for Alien Workers.pdf",
+          "fileSize": 525476,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:57:04 GMT 2026",
+          "fileId": "1Jcfj000000DYNFCA4",
+          "fileName": "Form I-485, Application to Register Permanent Residence.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/Form I-485, Application to Register Permanent Residence.pdf",
+          "fileSize": 1764293,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 09:57:04 GMT 2026",
+          "fileId": "1Jcfj000000DYNGCA4",
+          "fileName": "Form I-485, Instructions for Application to Register Permanent Residence.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/Form I-485, Instructions for Application to Register Permanent Residence.pdf",
+          "fileSize": 687129,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 10:02:07 GMT 2026",
+          "fileId": "1Jcfj000000DYQTCA4",
+          "fileName": "Form I-765, Instructions for Application for Employment Authorization.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/Form I-765, Instructions for Application for Employment Authorization.pdf",
+          "fileSize": 580406,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 10:03:53 GMT 2026",
+          "fileId": "1Jcfj000000DYS5CAO",
+          "fileName": "USCIS_I130_Instructions.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_I130_Instructions.pdf",
+          "fileSize": 286856,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 10:09:00 GMT 2026",
+          "fileId": "1Jcfj000000DYThCAO",
+          "fileName": "USCIS_I129_Instructions.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_I129_Instructions.pdf",
+          "fileSize": 547606,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 10:09:00 GMT 2026",
+          "fileId": "1Jcfj000000DYTiCAO",
+          "fileName": "USCIS_N400_Instructions.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_N400_Instructions.pdf",
+          "fileSize": 1044673,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        },
+        {
+          "createdBy": "DIVYA SRI DASARI",
+          "createdById": "005fj00000QxxRqAAJ",
+          "createdDate": "Thu Nov 12 10:09:00 GMT 2026",
+          "fileId": "1Jcfj000000DYTjCAO",
+          "fileName": "USCIS_I129_Instructions 1.pdf",
+          "filePath": "$agentforce_data_library$/1JDfj00000DQDtNGAX/USCIS_I129_Instructions 1.pdf",
+          "fileSize": 407163,
+          "groundingSourceId": "1Jafj000000JghtCAC",
+          "status": "INDEXED"
+        }
+      ],
+      "groundingSourceType": "SFDRIVE",
+      "indexMode": "ENHANCED",
+      "totalFileCount": 12
+    },
+    "libraryId": "1JDfj00000DQDtNGAX",
+    "masterLabel": "US Immigration Policy Knowledge",
+    "retriever": {
+      "id": "1Cxfj000000QPh7CAG",
+      "label": "File_US_Immigration_Policy_Knowledge"
+    },
+    "retrieverAction": {
+      "apiName": "File_US_Immigration_Policy_Knowledge",
+      "id": "172fj00000ibzCrAAI",
+      "label": "Get Information from US_Immigration_Policy_Knowledge"
+    },
+    "retrieverId": "1Cxfj000000QPh7CAG",
+    "retrieverLabel": "File_US_Immigration_Policy_Knowledge",
+    "sourceType": "SFDRIVE",
+    "status": "READY",
+    "type": "ENTERPRISE"
+  },
+  "warnings": []
+}

@@ -14,7 +14,20 @@ All substantive immigration reference material is drawn from official U.S. gover
 
 ## Grounding and provenance
 
-The Agentforce Data Library was configured with ten USCIS PDFs and reached **Ready to Use**. Salesforce generated a beta retrieval action, used by the Policy, Visa and Application specialists. Testing showed retrieval of relevant USCIS policy and form instructions.
+The Agentforce Data Library **US Immigration Policy Knowledge** was configured with ten USCIS PDFs and reached **Ready to Use**. Salesforce generated a beta retrieval action (`File_US_Immigration_Policy_Knowledge`), used by agents that need USCIS document grounding. Testing showed retrieval of relevant USCIS policy and form instructions.
+
+### Data Library configuration and portability
+
+| Property | Value |
+| --- | --- |
+| Display name | `US Immigration Policy Knowledge` |
+| Source type | `SFDRIVE` (Salesforce file-based library) |
+| Index mode | `ENHANCED` |
+| Source document count | 10 PDFs in the source library |
+| Retrieval action | `File_US_Immigration_Policy_Knowledge` (generated; target-org reconnection required) |
+| Exported configuration | `docs/DATA_LIBRARY_CONFIG.json` (reference only; sanitize before publication) |
+
+The source PDFs are under `us-immigration-intelligence-docs/Uploaded files for Data library and excel records/`. This folder includes other source documents as well; the exact ten library members should be confirmed using `sf agent adl file list` in the source org. The file-based library must be **recreated and indexed in each target org**, rather than treated as included in a `force-app` metadata deployment. Follow the instructions in [SETUP.md](SETUP.md#agentforce-data-library-deployment-to-another-org).
 
 Retain original `uscis.gov`, `travel.state.gov`, and `federalregister.gov` URLs in any datasets or metadata. Automatically generated Data Library citations can point to temporary Salesforce-managed storage URLs; original publisher URLs are preferred in user-facing responses when verified.
 
